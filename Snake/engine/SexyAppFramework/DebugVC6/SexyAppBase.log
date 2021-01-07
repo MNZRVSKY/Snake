@@ -1,0 +1,624 @@
+﻿Build started 02.05.2016 14:19:34.
+     1>Project "C:\Users\Roman\Documents\Visual Studio 2013\Projects\Snake_Boolat_Games\source\SexyAppFramework\SexyAppBase.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _WINDOWS /D _VISUALC_ /D _JPEGLIB_ /D _VC80_UPGRADE=0x0600 /D _MBCS /Gm- /EHsc /RTC1 /MTd /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo".\DebugVC6\\" /Fd".\DebugVC6\vc120.pdb" /FR".\DebugVC6\\" /Gd /TP /analyze- /errorReport:prompt ..\PakLib\PakInterface.cpp GraphicsBuild.cpp SWTri.cpp ..\ImageLib\ImageLib.cpp MiscBuildBase.cpp SoundBuild.cpp WidgetBuildBase.cpp SexyAppBase.cpp
+         PakInterface.cpp
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\paklib\PakInterface.h(108): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\paklib\PakInterface.h(119): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\paklib\PakInterface.h(133): warning C4996: '_wfopen': This function or variable may be unsafe. Consider using _wfopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\wchar.h(841) : see declaration of '_wfopen'
+     1>..\PakLib\PakInterface.cpp(147): warning C4996: 'getcwd': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getcwd. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\direct.h(130) : see declaration of 'getcwd'
+     1>..\PakLib\PakInterface.cpp(152): warning C4996: 'strnicmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strnicmp. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(255) : see declaration of 'strnicmp'
+     1>..\PakLib\PakInterface.cpp(190): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(253) : see declaration of 'stricmp'
+     1>..\PakLib\PakInterface.cpp(206): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : see declaration of 'fopen'
+     1>..\PakLib\PakInterface.cpp(363): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : see declaration of 'strcpy'
+     1>..\PakLib\PakInterface.cpp(365): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : see declaration of 'strcpy'
+         GraphicsBuild.cpp
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\D3DTester.cpp(580): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\D3DTester.cpp(590): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\ImageFont.cpp(246): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(253) : see declaration of 'stricmp'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\ImageFont.cpp(295): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(253) : see declaration of 'stricmp'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\ImageFont.cpp(320): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\ImageFont.cpp(323): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\ImageFont.cpp(326): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\ImageFont.cpp(329): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\ImageFont.cpp(350): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(253) : see declaration of 'stricmp'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\ImageFont.cpp(367): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(253) : see declaration of 'stricmp'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\ImageFont.cpp(398): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(253) : see declaration of 'stricmp'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\ImageFont.cpp(420): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(253) : see declaration of 'stricmp'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\ImageFont.cpp(444): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(253) : see declaration of 'stricmp'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\ImageFont.cpp(463): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(253) : see declaration of 'stricmp'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\ImageFont.cpp(482): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(253) : see declaration of 'stricmp'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\ImageFont.cpp(509): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(253) : see declaration of 'stricmp'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\ImageFont.cpp(531): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(253) : see declaration of 'stricmp'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\ImageFont.cpp(553): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(253) : see declaration of 'stricmp'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\ImageFont.cpp(586): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(253) : see declaration of 'stricmp'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\ImageFont.cpp(608): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(253) : see declaration of 'stricmp'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\ImageFont.cpp(624): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(253) : see declaration of 'stricmp'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\ImageFont.cpp(640): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(253) : see declaration of 'stricmp'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\ImageFont.cpp(662): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(253) : see declaration of 'stricmp'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\ImageFont.cpp(684): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(253) : see declaration of 'stricmp'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\ImageFont.cpp(706): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(253) : see declaration of 'stricmp'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\ImageFont.cpp(724): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(253) : see declaration of 'stricmp'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\ImageFont.cpp(758): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(253) : see declaration of 'stricmp'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\ImageFont.cpp(783): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(253) : see declaration of 'stricmp'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\ImageFont.cpp(846): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(253) : see declaration of 'stricmp'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\ImageFont.cpp(884): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(253) : see declaration of 'stricmp'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\ImageFont.cpp(918): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(253) : see declaration of 'stricmp'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\ImageFont.cpp(940): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(253) : see declaration of 'stricmp'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\ImageFont.cpp(1043): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\ImageFont.cpp(1051): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(230) : see declaration of 'fscanf'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\ImageFont.cpp(1059): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(230) : see declaration of 'fscanf'
+         SWTri.cpp
+         ImageLib.cpp
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\imagelib\..\PakLib\PakInterface.h(108): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\imagelib\..\PakLib\PakInterface.h(119): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\imagelib\..\PakLib\PakInterface.h(133): warning C4996: '_wfopen': This function or variable may be unsafe. Consider using _wfopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(590) : see declaration of '_wfopen'
+     1>..\ImageLib\ImageLib.cpp(349): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(118) : see declaration of 'strcat'
+     1>..\ImageLib\ImageLib.cpp(799): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : see declaration of 'fopen'
+     1>..\ImageLib\ImageLib.cpp(871): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : see declaration of 'fopen'
+     1>..\ImageLib\ImageLib.cpp(948): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : see declaration of 'fopen'
+     1>..\ImageLib\ImageLib.cpp(997): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\imagelib\j2k-codec\j2k-codec.h(466): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : see declaration of 'strcpy'
+     1>..\ImageLib\ImageLib.cpp(1516): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : see declaration of 'strcpy'
+     1>..\ImageLib\ImageLib.cpp(1575): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(253) : see declaration of 'stricmp'
+     1>..\ImageLib\ImageLib.cpp(1578): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(253) : see declaration of 'stricmp'
+     1>..\ImageLib\ImageLib.cpp(1581): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(253) : see declaration of 'stricmp'
+     1>..\ImageLib\ImageLib.cpp(1584): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(253) : see declaration of 'stricmp'
+     1>..\ImageLib\ImageLib.cpp(1587): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(253) : see declaration of 'stricmp'
+     1>..\ImageLib\ImageLib.cpp(1589): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(253) : see declaration of 'stricmp'
+         MiscBuildBase.cpp
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\..\PakLib\PakInterface.h(108): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\..\PakLib\PakInterface.h(119): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\..\PakLib\PakInterface.h(133): warning C4996: '_wfopen': This function or variable may be unsafe. Consider using _wfopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(590) : see declaration of '_wfopen'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\SEHCatcher.cpp(312): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\SEHCatcher.cpp(316): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\SEHCatcher.cpp(332): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\SEHCatcher.cpp(371): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\SEHCatcher.cpp(377): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\SEHCatcher.cpp(387): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\SEHCatcher.cpp(406): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\SEHCatcher.cpp(408): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\SEHCatcher.cpp(410): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\SEHCatcher.cpp(412): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\SEHCatcher.cpp(490): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\SEHCatcher.cpp(538): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\SEHCatcher.cpp(571): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\SEHCatcher.cpp(579): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\SEHCatcher.cpp(583): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\SEHCatcher.cpp(1258): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\SEHCatcher.cpp(1263): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\PerfTimer.cpp(147): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(253) : see declaration of 'stricmp'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\PerfTimer.cpp(309): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\PerfTimer.cpp(314): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\KeyCodes.cpp(111): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\KeyCodes.cpp(112): warning C4996: 'strupr': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strupr. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(259) : see declaration of 'strupr'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\DirectXErrorString.cpp(218): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\Debug.cpp(55): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\Debug.cpp(56): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\Debug.cpp(89): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\Debug.cpp(90): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\Debug.cpp(118): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(195) : see declaration of 'strncpy'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\Debug.cpp(155): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\Debug.cpp(160): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\Debug.cpp(160): warning C4996: 'asctime': This function or variable may be unsafe. Consider using asctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\time.h(174) : see declaration of 'asctime'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\Debug.cpp(160): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\time.inl(112) : see declaration of 'localtime'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\Debug.cpp(166): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\Debug.cpp(227): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\Debug.cpp(230): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\Common.cpp(197): warning C4996: 'wcstombs': This function or variable may be unsafe. Consider using wcstombs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdlib.h(575) : see declaration of 'wcstombs'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\Common.cpp(201): warning C4996: 'wcstombs': This function or variable may be unsafe. Consider using wcstombs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdlib.h(575) : see declaration of 'wcstombs'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\Common.cpp(210): warning C4996: 'wcstombs': This function or variable may be unsafe. Consider using wcstombs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdlib.h(575) : see declaration of 'wcstombs'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\Common.cpp(757): warning C4996: 'rmdir': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _rmdir. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\direct.h(141) : see declaration of 'rmdir'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\Common.cpp(891): warning C4996: '_vsnprintf': This function or variable may be unsafe. Consider using _vsnprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(346) : see declaration of '_vsnprintf'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\Common.cpp(917): warning C4996: '_vsnprintf': This function or variable may be unsafe. Consider using _vsnprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(346) : see declaration of '_vsnprintf'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\Common.cpp(957): warning C4996: '_vsnwprintf': This function or variable may be unsafe. Consider using _vsnwprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(477) : see declaration of '_vsnwprintf'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\Common.cpp(983): warning C4996: '_vsnwprintf': This function or variable may be unsafe. Consider using _vsnwprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(477) : see declaration of '_vsnwprintf'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\Buffer.cpp(177): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\ResourceManager.cpp(153): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\ResourceManager.cpp(242): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(304) : see declaration of 'sscanf'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\ResourceManager.cpp(246): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(304) : see declaration of 'sscanf'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\ResourceManager.cpp(311): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(304) : see declaration of 'sscanf'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\ResourceManager.cpp(339): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(253) : see declaration of 'stricmp'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\ResourceManager.cpp(340): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(253) : see declaration of 'stricmp'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\ResourceManager.cpp(341): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(253) : see declaration of 'stricmp'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\ResourceManager.cpp(342): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(253) : see declaration of 'stricmp'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\ResourceManager.cpp(905): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\ResourceManager.cpp(906): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(204) : see declaration of 'strtok'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\ResourceManager.cpp(910): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(204) : see declaration of 'strtok'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\ModVal.cpp(86): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(304) : see declaration of 'sscanf'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\ModVal.cpp(514): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\ModVal.cpp(549): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\ModVal.cpp(578): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\ModVal.cpp(634): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+         SoundBuild.cpp
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\..\PakLib\PakInterface.h(108): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\..\PakLib\PakInterface.h(119): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\..\PakLib\PakInterface.h(133): warning C4996: '_wfopen': This function or variable may be unsafe. Consider using _wfopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(590) : see declaration of '_wfopen'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\DSoundManager.cpp(866): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\BassLoader.cpp(16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\FModMusicInterface.cpp(73): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : see declaration of 'fopen'
+         WidgetBuildBase.cpp
+         SexyAppBase.cpp
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\../PakLib/PakInterface.h(108): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\../PakLib/PakInterface.h(119): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\../PakLib/PakInterface.h(133): warning C4996: '_wfopen': This function or variable may be unsafe. Consider using _wfopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(590) : see declaration of '_wfopen'
+     1>SexyAppBase.cpp(545): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : see declaration of 'fopen'
+     1>SexyAppBase.cpp(660): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : see declaration of 'fopen'
+     1>SexyAppBase.cpp(1158): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(304) : see declaration of 'sscanf'
+     1>SexyAppBase.cpp(1240): warning C4996: 'mkdir': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _mkdir. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\direct.h(140) : see declaration of 'mkdir'
+     1>SexyAppBase.cpp(1249): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\time.inl(112) : see declaration of 'localtime'
+     1>SexyAppBase.cpp(1251): warning C4996: 'asctime': This function or variable may be unsafe. Consider using asctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\time.h(174) : see declaration of 'asctime'
+     1>SexyAppBase.cpp(1332): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>SexyAppBase.cpp(1335): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>SexyAppBase.cpp(1398): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>SexyAppBase.cpp(1948): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : see declaration of 'fopen'
+     1>SexyAppBase.cpp(2110): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>SexyAppBase.cpp(2113): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>SexyAppBase.cpp(2697): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : see declaration of 'fopen'
+     1>SexyAppBase.cpp(2700): warning C4996: '_strtime': This function or variable may be unsafe. Consider using _strtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\time.h(202) : see declaration of '_strtime'
+     1>SexyAppBase.cpp(3026): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(204) : see declaration of 'strtok'
+     1>SexyAppBase.cpp(3031): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(204) : see declaration of 'strtok'
+     1>SexyAppBase.cpp(3662): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>SexyAppBase.cpp(4074): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>SexyAppBase.cpp(4901): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>SexyAppBase.cpp(5635): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>SexyAppBase.cpp(5639): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>SexyAppBase.cpp(5641): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>SexyAppBase.cpp(5643): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>SexyAppBase.cpp(5645): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>SexyAppBase.cpp(5647): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>SexyAppBase.cpp(5651): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>SexyAppBase.cpp(5923): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(304) : see declaration of 'sscanf'
+     1>SexyAppBase.cpp(6099): warning C4996: 'chdir': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _chdir. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\direct.h(136) : see declaration of 'chdir'
+     1>SexyAppBase.cpp(6334): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : see declaration of 'strcpy'
+         Generating Code...
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _WINDOWS /D _VISUALC_ /D _JPEGLIB_ /D _VC80_UPGRADE=0x0600 /D _MBCS /Gm- /EHsc /RTC1 /MTd /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo".\DebugVC6\\" /Fd".\DebugVC6\vc120.pdb" /FR".\DebugVC6\\" /Gd /TC /analyze- /errorReport:prompt ..\ImageLib\png\png.c ..\ImageLib\png\pngerror.c ..\ImageLib\png\pngget.c ..\ImageLib\png\pngmem.c ..\ImageLib\png\pngpread.c ..\ImageLib\png\pngread.c ..\ImageLib\png\pngrio.c ..\ImageLib\png\pngrtran.c ..\ImageLib\png\pngrutil.c ..\ImageLib\png\pngset.c ..\ImageLib\png\pngtrans.c ..\ImageLib\png\pngvcrd.c ..\ImageLib\png\pngwio.c ..\ImageLib\png\pngwrite.c ..\ImageLib\png\pngwtran.c ..\ImageLib\png\pngwutil.c ..\ImageLib\jpeg\cdjpeg.c ..\ImageLib\jpeg\jcapimin.c ..\ImageLib\jpeg\jcapistd.c ..\ImageLib\jpeg\jccoefct.c ..\ImageLib\jpeg\jccolor.c ..\ImageLib\jpeg\jcdctmgr.c ..\ImageLib\jpeg\jchuff.c ..\ImageLib\jpeg\jcinit.c ..\ImageLib\jpeg\jcmainct.c ..\ImageLib\jpeg\jcmarker.c ..\ImageLib\jpeg\jcmaster.c ..\ImageLib\jpeg\jcomapi.c ..\ImageLib\jpeg\jcparam.c ..\ImageLib\jpeg\jcphuff.c ..\ImageLib\jpeg\jcprepct.c ..\ImageLib\jpeg\jcsample.c ..\ImageLib\jpeg\jctrans.c ..\ImageLib\jpeg\jdapimin.c ..\ImageLib\jpeg\jdapistd.c ..\ImageLib\jpeg\jdatadst.c ..\ImageLib\jpeg\jdatasrc.c ..\ImageLib\jpeg\jdcoefct.c ..\ImageLib\jpeg\jdcolor.c ..\ImageLib\jpeg\jddctmgr.c ..\ImageLib\jpeg\jdhuff.c ..\ImageLib\jpeg\jdinput.c ..\ImageLib\jpeg\jdmainct.c ..\ImageLib\jpeg\jdmarker.c ..\ImageLib\jpeg\jdmaster.c ..\ImageLib\jpeg\jdmerge.c ..\ImageLib\jpeg\jdphuff.c ..\ImageLib\jpeg\jdpostct.c ..\ImageLib\jpeg\jdsample.c ..\ImageLib\jpeg\jdtrans.c ..\ImageLib\jpeg\jerror.c ..\ImageLib\jpeg\jfdctflt.c ..\ImageLib\jpeg\jfdctfst.c ..\ImageLib\jpeg\jfdctint.c ..\ImageLib\jpeg\jidctflt.c ..\ImageLib\jpeg\jidctfst.c ..\ImageLib\jpeg\jidctint.c ..\ImageLib\jpeg\jidctred.c ..\ImageLib\jpeg\jmemmgr.c ..\ImageLib\jpeg\jmemnobs.c ..\ImageLib\jpeg\jquant1.c ..\ImageLib\jpeg\jquant2.c ..\ImageLib\jpeg\jutils.c ..\ImageLib\jpeg\rdbmp.c ..\ImageLib\jpeg\rdcolmap.c ..\ImageLib\jpeg\rdgif.c ..\ImageLib\jpeg\rdppm.c ..\ImageLib\jpeg\rdrle.c ..\ImageLib\jpeg\rdswitch.c ..\ImageLib\jpeg\rdtarga.c ..\ImageLib\jpeg\transupp.c ..\ImageLib\jpeg\wrbmp.c ..\ImageLib\jpeg\wrgif.c ..\ImageLib\jpeg\wrppm.c ..\ImageLib\jpeg\wrrle.c ..\ImageLib\jpeg\wrtarga.c ..\ImageLib\zlib\adler32.c ..\ImageLib\zlib\compress.c ..\ImageLib\zlib\crc32.c ..\ImageLib\zlib\deflate.c ..\ImageLib\zlib\gzio.c ..\ImageLib\zlib\infblock.c ..\ImageLib\zlib\infcodes.c ..\ImageLib\zlib\inffast.c ..\ImageLib\zlib\inflate.c ..\ImageLib\zlib\inftrees.c ..\ImageLib\zlib\infutil.c ..\ImageLib\zlib\trees.c ..\ImageLib\zlib\uncompr.c ..\ImageLib\zlib\zutil.c ogg\bitwise.c ogg\block.c ogg\codebook.c ogg\floor0.c ogg\floor1.c ogg\framing.c ogg\info.c ogg\mapping0.c ogg\mdct.c ogg\registry.c ogg\res012.c ogg\sharedbook.c ogg\synthesis.c ogg\vorbisfile.c ogg\window.c
+         png.c
+     1>..\ImageLib\png\png.c(346): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+         pngerror.c
+         pngget.c
+         pngmem.c
+         pngpread.c
+         pngread.c
+         pngrio.c
+         pngrtran.c
+     1>..\ImageLib\png\pngrtran.c(1090): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+         pngrutil.c
+     1>..\ImageLib\png\pngrutil.c(1440): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+         pngset.c
+         pngtrans.c
+         pngvcrd.c
+         pngwio.c
+         pngwrite.c
+     1>..\ImageLib\png\pngwrite.c(239): warning C4996: 'gmtime': This function or variable may be unsafe. Consider using gmtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\time.inl(99) : see declaration of 'gmtime'
+         pngwtran.c
+         pngwutil.c
+     1>..\ImageLib\png\pngwutil.c(627): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>..\ImageLib\png\pngwutil.c(775): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+         cdjpeg.c
+         jcapimin.c
+         jcapistd.c
+         jccoefct.c
+         Generating Code...
+         Compiling...
+         jccolor.c
+         jcdctmgr.c
+         jchuff.c
+         jcinit.c
+         jcmainct.c
+         jcmarker.c
+         jcmaster.c
+         jcomapi.c
+         jcparam.c
+         jcphuff.c
+         jcprepct.c
+         jcsample.c
+         jctrans.c
+         jdapimin.c
+         jdapistd.c
+         jdatadst.c
+         jdatasrc.c
+         jdcoefct.c
+         jdcolor.c
+         jddctmgr.c
+         Generating Code...
+         Compiling...
+         jdhuff.c
+         jdinput.c
+         jdmainct.c
+         jdmarker.c
+         jdmaster.c
+         jdmerge.c
+         jdphuff.c
+         jdpostct.c
+         jdsample.c
+         jdtrans.c
+         jerror.c
+     1>..\ImageLib\jpeg\jerror.c(193): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>..\ImageLib\jpeg\jerror.c(199): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+         jfdctflt.c
+         jfdctfst.c
+         jfdctint.c
+         jidctflt.c
+         jidctfst.c
+         jidctint.c
+         jidctred.c
+         jmemmgr.c
+     1>..\ImageLib\jpeg\jmemmgr.c(1106): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdlib.h(462) : see declaration of 'getenv'
+     1>..\ImageLib\jpeg\jmemmgr.c(1109): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(304) : see declaration of 'sscanf'
+         jmemnobs.c
+         Generating Code...
+         Compiling...
+         jquant1.c
+         jquant2.c
+         jutils.c
+         rdbmp.c
+         rdcolmap.c
+         rdgif.c
+         rdppm.c
+         rdrle.c
+         rdswitch.c
+     1>..\ImageLib\jpeg\rdswitch.c(90): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : see declaration of 'fopen'
+     1>..\ImageLib\jpeg\rdswitch.c(182): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : see declaration of 'fopen'
+     1>..\ImageLib\jpeg\rdswitch.c(279): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(304) : see declaration of 'sscanf'
+     1>..\ImageLib\jpeg\rdswitch.c(313): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(304) : see declaration of 'sscanf'
+         rdtarga.c
+         transupp.c
+         wrbmp.c
+         wrgif.c
+         wrppm.c
+         wrrle.c
+         wrtarga.c
+         adler32.c
+         compress.c
+         crc32.c
+         deflate.c
+         Generating Code...
+         Compiling...
+         gzio.c
+     1>..\ImageLib\zlib\gzio.c(108): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : see declaration of 'strcpy'
+     1>..\ImageLib\zlib\gzio.c(156): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : see declaration of 'fopen'
+     1>..\ImageLib\zlib\gzio.c(201): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>..\ImageLib\zlib\gzio.c(535): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'vsprintf'
+     1>..\ImageLib\zlib\gzio.c(871): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : see declaration of 'strcpy'
+     1>..\ImageLib\zlib\gzio.c(872): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(118) : see declaration of 'strcat'
+     1>..\ImageLib\zlib\gzio.c(873): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(118) : see declaration of 'strcat'
+         infblock.c
+         infcodes.c
+         inffast.c
+         inflate.c
+         inftrees.c
+         infutil.c
+         trees.c
+         uncompr.c
+         zutil.c
+         bitwise.c
+         block.c
+         codebook.c
+         floor0.c
+         floor1.c
+         framing.c
+         info.c
+     1>ogg\info.c(62): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : see declaration of 'strcpy'
+     1>ogg\info.c(63): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(118) : see declaration of 'strcat'
+     1>ogg\info.c(81): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : see declaration of 'strcpy'
+     1>ogg\info.c(82): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(118) : see declaration of 'strcat'
+         mapping0.c
+         mdct.c
+         registry.c
+         Generating Code...
+         Compiling...
+         res012.c
+         sharedbook.c
+         synthesis.c
+         vorbisfile.c
+         window.c
+         Generating Code...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:".\DebugVC6\SexyAppBase.lib" /NOLOGO .\DebugVC6\PakInterface.obj
+         .\DebugVC6\GraphicsBuild.obj
+         .\DebugVC6\SWTri.obj
+         .\DebugVC6\png.obj
+         .\DebugVC6\pngerror.obj
+         .\DebugVC6\pngget.obj
+         .\DebugVC6\pngmem.obj
+         .\DebugVC6\pngpread.obj
+         .\DebugVC6\pngread.obj
+         .\DebugVC6\pngrio.obj
+         .\DebugVC6\pngrtran.obj
+         .\DebugVC6\pngrutil.obj
+         .\DebugVC6\pngset.obj
+         .\DebugVC6\pngtrans.obj
+         .\DebugVC6\pngvcrd.obj
+         .\DebugVC6\pngwio.obj
+         .\DebugVC6\pngwrite.obj
+         .\DebugVC6\pngwtran.obj
+         .\DebugVC6\pngwutil.obj
+         .\DebugVC6\cdjpeg.obj
+         .\DebugVC6\jcapimin.obj
+         .\DebugVC6\jcapistd.obj
+         .\DebugVC6\jccoefct.obj
+         .\DebugVC6\jccolor.obj
+         .\DebugVC6\jcdctmgr.obj
+         .\DebugVC6\jchuff.obj
+         .\DebugVC6\jcinit.obj
+         .\DebugVC6\jcmainct.obj
+         .\DebugVC6\jcmarker.obj
+         .\DebugVC6\jcmaster.obj
+         .\DebugVC6\jcomapi.obj
+         .\DebugVC6\jcparam.obj
+         .\DebugVC6\jcphuff.obj
+         .\DebugVC6\jcprepct.obj
+         .\DebugVC6\jcsample.obj
+         .\DebugVC6\jctrans.obj
+         .\DebugVC6\jdapimin.obj
+         .\DebugVC6\jdapistd.obj
+         .\DebugVC6\jdatadst.obj
+         .\DebugVC6\jdatasrc.obj
+         .\DebugVC6\jdcoefct.obj
+         .\DebugVC6\jdcolor.obj
+         .\DebugVC6\jddctmgr.obj
+         .\DebugVC6\jdhuff.obj
+         .\DebugVC6\jdinput.obj
+         .\DebugVC6\jdmainct.obj
+         .\DebugVC6\jdmarker.obj
+         .\DebugVC6\jdmaster.obj
+         .\DebugVC6\jdmerge.obj
+         .\DebugVC6\jdphuff.obj
+         .\DebugVC6\jdpostct.obj
+         .\DebugVC6\jdsample.obj
+         .\DebugVC6\jdtrans.obj
+         .\DebugVC6\jerror.obj
+         .\DebugVC6\jfdctflt.obj
+         .\DebugVC6\jfdctfst.obj
+         .\DebugVC6\jfdctint.obj
+         .\DebugVC6\jidctflt.obj
+         .\DebugVC6\jidctfst.obj
+         .\DebugVC6\jidctint.obj
+         .\DebugVC6\jidctred.obj
+         .\DebugVC6\jmemmgr.obj
+         .\DebugVC6\jmemnobs.obj
+         .\DebugVC6\jquant1.obj
+         .\DebugVC6\jquant2.obj
+         .\DebugVC6\jutils.obj
+         .\DebugVC6\rdbmp.obj
+         .\DebugVC6\rdcolmap.obj
+         .\DebugVC6\rdgif.obj
+         .\DebugVC6\rdppm.obj
+         .\DebugVC6\rdrle.obj
+         .\DebugVC6\rdswitch.obj
+         .\DebugVC6\rdtarga.obj
+         .\DebugVC6\transupp.obj
+         .\DebugVC6\wrbmp.obj
+         .\DebugVC6\wrgif.obj
+         .\DebugVC6\wrppm.obj
+         .\DebugVC6\wrrle.obj
+         .\DebugVC6\wrtarga.obj
+         .\DebugVC6\adler32.obj
+         .\DebugVC6\compress.obj
+         .\DebugVC6\crc32.obj
+         .\DebugVC6\deflate.obj
+         .\DebugVC6\gzio.obj
+         .\DebugVC6\infblock.obj
+         .\DebugVC6\infcodes.obj
+         .\DebugVC6\inffast.obj
+         .\DebugVC6\inflate.obj
+         .\DebugVC6\inftrees.obj
+         .\DebugVC6\infutil.obj
+         .\DebugVC6\trees.obj
+         .\DebugVC6\uncompr.obj
+         .\DebugVC6\zutil.obj
+         .\DebugVC6\ImageLib.obj
+         .\DebugVC6\MiscBuildBase.obj
+         .\DebugVC6\SoundBuild.obj
+         .\DebugVC6\bitwise.obj
+         .\DebugVC6\block.obj
+         .\DebugVC6\codebook.obj
+         .\DebugVC6\floor0.obj
+         .\DebugVC6\floor1.obj
+         .\DebugVC6\framing.obj
+         .\DebugVC6\info.obj
+         .\DebugVC6\mapping0.obj
+         .\DebugVC6\mdct.obj
+         .\DebugVC6\registry.obj
+         .\DebugVC6\res012.obj
+         .\DebugVC6\sharedbook.obj
+         .\DebugVC6\synthesis.obj
+         .\DebugVC6\vorbisfile.obj
+         .\DebugVC6\window.obj
+         .\DebugVC6\WidgetBuildBase.obj
+         .\DebugVC6\SexyAppBase.obj
+         SexyAppBase.vcxproj -> C:\Users\Roman\Documents\Visual Studio 2013\Projects\Snake_Boolat_Games\source\SexyAppFramework\.\DebugVC6\SexyAppBase.lib
+       BscMake:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\bscmake.exe /nologo /o".\DebugVC6\SexyAppBase.bsc" .\DebugVC6\PakInterface.sbr .\DebugVC6\GraphicsBuild.sbr .\DebugVC6\SWTri.sbr .\DebugVC6\png.sbr .\DebugVC6\pngerror.sbr .\DebugVC6\pngget.sbr .\DebugVC6\pngmem.sbr .\DebugVC6\pngpread.sbr .\DebugVC6\pngread.sbr .\DebugVC6\pngrio.sbr .\DebugVC6\pngrtran.sbr .\DebugVC6\pngrutil.sbr .\DebugVC6\pngset.sbr .\DebugVC6\pngtrans.sbr .\DebugVC6\pngvcrd.sbr .\DebugVC6\pngwio.sbr .\DebugVC6\pngwrite.sbr .\DebugVC6\pngwtran.sbr .\DebugVC6\pngwutil.sbr .\DebugVC6\cdjpeg.sbr .\DebugVC6\jcapimin.sbr .\DebugVC6\jcapistd.sbr .\DebugVC6\jccoefct.sbr .\DebugVC6\jccolor.sbr .\DebugVC6\jcdctmgr.sbr .\DebugVC6\jchuff.sbr .\DebugVC6\jcinit.sbr .\DebugVC6\jcmainct.sbr .\DebugVC6\jcmarker.sbr .\DebugVC6\jcmaster.sbr .\DebugVC6\jcomapi.sbr .\DebugVC6\jcparam.sbr .\DebugVC6\jcphuff.sbr .\DebugVC6\jcprepct.sbr .\DebugVC6\jcsample.sbr .\DebugVC6\jctrans.sbr .\DebugVC6\jdapimin.sbr .\DebugVC6\jdapistd.sbr .\DebugVC6\jdatadst.sbr .\DebugVC6\jdatasrc.sbr .\DebugVC6\jdcoefct.sbr .\DebugVC6\jdcolor.sbr .\DebugVC6\jddctmgr.sbr .\DebugVC6\jdhuff.sbr .\DebugVC6\jdinput.sbr .\DebugVC6\jdmainct.sbr .\DebugVC6\jdmarker.sbr .\DebugVC6\jdmaster.sbr .\DebugVC6\jdmerge.sbr .\DebugVC6\jdphuff.sbr .\DebugVC6\jdpostct.sbr .\DebugVC6\jdsample.sbr .\DebugVC6\jdtrans.sbr .\DebugVC6\jerror.sbr .\DebugVC6\jfdctflt.sbr .\DebugVC6\jfdctfst.sbr .\DebugVC6\jfdctint.sbr .\DebugVC6\jidctflt.sbr .\DebugVC6\jidctfst.sbr .\DebugVC6\jidctint.sbr .\DebugVC6\jidctred.sbr .\DebugVC6\jmemmgr.sbr .\DebugVC6\jmemnobs.sbr .\DebugVC6\jquant1.sbr .\DebugVC6\jquant2.sbr .\DebugVC6\jutils.sbr .\DebugVC6\rdbmp.sbr .\DebugVC6\rdcolmap.sbr .\DebugVC6\rdgif.sbr .\DebugVC6\rdppm.sbr .\DebugVC6\rdrle.sbr .\DebugVC6\rdswitch.sbr .\DebugVC6\rdtarga.sbr .\DebugVC6\transupp.sbr .\DebugVC6\wrbmp.sbr .\DebugVC6\wrgif.sbr .\DebugVC6\wrppm.sbr .\DebugVC6\wrrle.sbr .\DebugVC6\wrtarga.sbr .\DebugVC6\adler32.sbr .\DebugVC6\compress.sbr .\DebugVC6\crc32.sbr .\DebugVC6\deflate.sbr .\DebugVC6\gzio.sbr .\DebugVC6\infblock.sbr .\DebugVC6\infcodes.sbr .\DebugVC6\inffast.sbr .\DebugVC6\inflate.sbr .\DebugVC6\inftrees.sbr .\DebugVC6\infutil.sbr .\DebugVC6\trees.sbr .\DebugVC6\uncompr.sbr .\DebugVC6\zutil.sbr .\DebugVC6\ImageLib.sbr .\DebugVC6\MiscBuildBase.sbr .\DebugVC6\SoundBuild.sbr .\DebugVC6\bitwise.sbr .\DebugVC6\block.sbr .\DebugVC6\codebook.sbr .\DebugVC6\floor0.sbr .\DebugVC6\floor1.sbr .\DebugVC6\framing.sbr .\DebugVC6\info.sbr .\DebugVC6\mapping0.sbr .\DebugVC6\mdct.sbr .\DebugVC6\registry.sbr .\DebugVC6\res012.sbr .\DebugVC6\sharedbook.sbr .\DebugVC6\synthesis.sbr .\DebugVC6\vorbisfile.sbr .\DebugVC6\window.sbr .\DebugVC6\WidgetBuildBase.sbr .\DebugVC6\SexyAppBase.sbr
+     1>Done Building Project "C:\Users\Roman\Documents\Visual Studio 2013\Projects\Snake_Boolat_Games\source\SexyAppFramework\SexyAppBase.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:43.10

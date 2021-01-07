@@ -1,0 +1,469 @@
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\sexyappbase.bsc
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\sexyappbase.bsc
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\vc120.pdb
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\pakinterface.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\graphicsbuild.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\swtri.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\imagelib.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\miscbuildbase.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\soundbuild.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\widgetbuildbase.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\widgetbuildbase.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\soundbuild.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\miscbuildbase.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\imagelib.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\swtri.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\pakinterface.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\graphicsbuild.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\sexyappbase.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\sexyappbase.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\png.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\pngerror.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\pngget.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\pngmem.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\pngpread.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\pngread.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\pngrio.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\pngrtran.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\pngrutil.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\pngset.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\pngtrans.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\pngvcrd.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\pngwio.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\pngwrite.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\pngwtran.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\pngwutil.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\cdjpeg.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jcapimin.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jcapistd.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jccoefct.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jccoefct.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jcapistd.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jcapimin.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\cdjpeg.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\pngwutil.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\pngwtran.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\pngwrite.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\pngwio.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\pngvcrd.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\pngtrans.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\pngset.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\pngrutil.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\pngrtran.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\pngrio.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\pngread.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\pngpread.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\pngmem.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\pngget.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\pngerror.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\png.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jccolor.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jcdctmgr.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jchuff.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jcinit.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jcmainct.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jcmarker.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jcmaster.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jcomapi.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jcparam.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jcphuff.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jcprepct.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jcsample.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jctrans.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jdapimin.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jdapistd.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jdatadst.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jdatasrc.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jdcoefct.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jdcolor.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jddctmgr.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jddctmgr.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jdcolor.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jdcoefct.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jdatasrc.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jdatadst.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jdapistd.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jdapimin.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jctrans.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jcsample.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jcprepct.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jcphuff.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jcparam.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jcomapi.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jcmaster.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jcmarker.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jcmainct.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jcinit.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jchuff.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jcdctmgr.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jccolor.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jdhuff.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jdinput.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jdmainct.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jdmarker.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jdmaster.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jdmerge.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jdphuff.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jdpostct.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jdsample.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jdtrans.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jerror.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jfdctflt.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jfdctfst.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jfdctint.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jidctflt.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jidctfst.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jidctint.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jidctred.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jmemmgr.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jmemnobs.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jmemnobs.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jmemmgr.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jidctred.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jidctint.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jidctfst.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jidctflt.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jfdctint.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jfdctfst.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jfdctflt.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jerror.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jdtrans.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jdsample.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jdpostct.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jdphuff.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jdmerge.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jdmaster.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jdmarker.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jdmainct.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jdinput.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jdhuff.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jquant1.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jquant2.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jutils.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\rdbmp.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\rdcolmap.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\rdgif.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\rdppm.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\rdrle.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\rdswitch.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\rdtarga.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\transupp.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\wrbmp.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\wrgif.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\wrppm.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\wrrle.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\wrtarga.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\adler32.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\compress.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\crc32.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\deflate.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\deflate.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\crc32.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\compress.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\adler32.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\wrtarga.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\wrrle.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\wrppm.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\wrgif.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\wrbmp.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\transupp.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\rdtarga.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\rdswitch.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\rdrle.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\rdppm.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\rdgif.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\rdcolmap.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\rdbmp.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jutils.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jquant2.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\jquant1.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\gzio.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\infblock.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\infcodes.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\inffast.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\inflate.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\inftrees.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\infutil.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\trees.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\uncompr.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\zutil.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\bitwise.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\block.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\codebook.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\floor0.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\floor1.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\framing.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\info.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\mapping0.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\mdct.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\registry.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\registry.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\mdct.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\mapping0.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\info.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\framing.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\floor1.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\floor0.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\codebook.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\block.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\bitwise.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\zutil.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\uncompr.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\trees.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\infutil.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\inftrees.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\inflate.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\inffast.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\infcodes.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\infblock.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\gzio.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\res012.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\sharedbook.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\synthesis.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\vorbisfile.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\window.sbr
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\window.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\vorbisfile.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\synthesis.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\sharedbook.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\res012.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\vc120.pdb
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\pakinterface.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\graphicsbuild.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\swtri.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\imagelib.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\miscbuildbase.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\soundbuild.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\widgetbuildbase.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\sexyappbase.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\sexyappbase.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\widgetbuildbase.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\soundbuild.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\miscbuildbase.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\imagelib.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\swtri.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\graphicsbuild.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\pakinterface.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\png.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\pngerror.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\pngget.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\pngmem.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\pngpread.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\pngread.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\pngrio.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\pngrtran.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\pngrutil.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\pngset.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\pngtrans.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\pngvcrd.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\pngwio.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\pngwrite.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\pngwtran.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\pngwutil.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\cdjpeg.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jcapimin.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jcapistd.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jccoefct.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jccoefct.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jcapistd.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jcapimin.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\cdjpeg.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\pngwutil.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\pngwtran.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\pngwrite.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\pngwio.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\pngvcrd.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\pngtrans.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\pngset.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\pngrutil.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\pngrtran.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\pngrio.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\pngread.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\pngpread.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\pngmem.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\pngget.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\pngerror.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\png.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jccolor.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jcdctmgr.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jchuff.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jcinit.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jcmainct.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jcmarker.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jcmaster.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jcomapi.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jcparam.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jcphuff.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jcprepct.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jcsample.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jctrans.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jdapimin.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jdapistd.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jdatadst.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jdatasrc.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jdcoefct.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jdcolor.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jddctmgr.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jddctmgr.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jdcolor.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jdcoefct.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jdatasrc.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jdatadst.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jdapistd.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jdapimin.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jctrans.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jcsample.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jcprepct.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jcphuff.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jcparam.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jcomapi.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jcmaster.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jcmarker.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jcmainct.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jcinit.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jchuff.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jcdctmgr.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jccolor.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jdhuff.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jdinput.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jdmainct.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jdmarker.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jdmaster.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jdmerge.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jdphuff.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jdpostct.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jdsample.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jdtrans.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jerror.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jfdctflt.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jfdctfst.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jfdctint.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jidctflt.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jidctfst.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jidctint.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jidctred.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jmemmgr.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jmemnobs.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jmemnobs.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jmemmgr.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jidctred.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jidctint.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jidctfst.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jidctflt.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jfdctint.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jfdctfst.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jfdctflt.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jerror.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jdtrans.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jdsample.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jdpostct.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jdphuff.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jdmerge.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jdmaster.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jdmarker.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jdmainct.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jdinput.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jdhuff.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jquant1.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jquant2.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jutils.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\rdbmp.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\rdcolmap.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\rdgif.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\rdppm.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\rdrle.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\rdswitch.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\rdtarga.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\transupp.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\wrbmp.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\wrgif.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\wrppm.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\wrrle.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\wrtarga.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\adler32.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\compress.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\crc32.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\deflate.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\deflate.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\crc32.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\compress.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\adler32.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\wrtarga.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\wrrle.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\wrppm.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\wrgif.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\wrbmp.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\transupp.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\rdtarga.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\rdswitch.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\rdrle.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\rdppm.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\rdgif.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\rdcolmap.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\rdbmp.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jutils.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jquant2.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\jquant1.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\gzio.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\infblock.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\infcodes.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\inffast.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\inflate.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\inftrees.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\infutil.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\trees.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\uncompr.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\zutil.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\bitwise.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\block.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\codebook.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\floor0.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\floor1.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\framing.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\info.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\mapping0.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\mdct.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\registry.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\registry.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\mdct.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\mapping0.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\info.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\framing.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\floor1.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\floor0.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\codebook.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\block.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\bitwise.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\zutil.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\uncompr.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\trees.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\infutil.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\inftrees.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\inflate.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\inffast.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\infcodes.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\infblock.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\gzio.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\res012.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\sharedbook.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\synthesis.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\vorbisfile.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\window.sbr
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\window.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\vorbisfile.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\synthesis.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\sharedbook.obj
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\res012.obj
+c:\users\roman\desktop\osframework\source\sexyappframework\debugvc6\sexyappbase.lib
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\sexyappbase.lib
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\.\debugvc6\sexyappbase.lib
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\sexyappbase.tlog\bscmake.command.1.tlog
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\sexyappbase.tlog\bscmake.read.1.tlog
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\sexyappbase.tlog\bscmake.write.1.tlog
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\sexyappbase.tlog\cl.command.1.tlog
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\sexyappbase.tlog\cl.read.1.tlog
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\sexyappbase.tlog\cl.write.1.tlog
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\sexyappbase.tlog\lib-link.read.1.tlog
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\sexyappbase.tlog\lib-link.write.1.tlog
+c:\users\roman\documents\visual studio 2013\projects\snake_boolat_games\source\sexyappframework\debugvc6\sexyappbase.tlog\lib.command.1.tlog
